@@ -4,7 +4,7 @@
 
 Welcome to my cybersecurity portfolio.
 
-I am a cybersecurity student with experience in:
+Building on 10+ years of business systems implementation experience, I have developed hands-on skills in:
 - Blue team cyber defense and system hardening
 - Windows and Linux security administration
 - Network security and firewall configuration
