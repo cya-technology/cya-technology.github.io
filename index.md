@@ -25,7 +25,9 @@ Building on 10+ years of business systems implementation experience, I have deve
 
 -  Blue Team Cyber Defense Challenge
   
-  Hardened Windows and Linux systems by disabling unnecessary services, closing exposed ports, and reducing attack surface. Configured host-based firewalls and access controls to restrict unauthorized traffic. Monitored alerts, logs, and suspicious activity using Security Onion. [Blue Team Cyberchallenge Details and Report](https://github.com/cya-cybersecurity/blue-team-cyberchallenge)
+  Hardened Windows and Linux systems by disabling unnecessary services, closing exposed ports, and reducing attack surface. Configured host-based firewalls and access controls to restrict unauthorized traffic. Monitored alerts, logs, and suspicious activity using Security Onion. 
+  
+  [Blue Team Cyberchallenge Details and Report](https://github.com/cya-cybersecurity/blue-team-cyberchallenge)
 
 - Ethical Hacking & Vulnerability Assessment Lab
   
