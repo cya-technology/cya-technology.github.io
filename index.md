@@ -22,9 +22,8 @@ Building on 10+ years of business systems implementation experience, I have deve
 - CompTIA Security+
 
 ### Projects
-- Blue Team Cyber Defense Challenge
-  Hardened Windows and Linux systems by disabling unnecessary services, closing exposed ports, and reducing attack surface. Configured host-based firewalls and
-  access controls to restrict unauthorized traffic. Monitored alerts, logs, and suspicious activity using Security Onion.
+-  Blue Team Cyber Defense Challenge
+  Hardened Windows and Linux systems by disabling unnecessary services, closing exposed ports, and reducing attack surface. Configured host-based       firewalls and access controls to restrict unauthorized traffic. Monitored alerts, logs, and suspicious activity using Security Onion.
 
 - Firewall Administration Lab
   Configured enterprise firewall policies using Palo Alto Networks platforms in a lab environment. Created and modified security rules, zones, and traffic filtering policies.
@@ -32,13 +31,11 @@ Building on 10+ years of business systems implementation experience, I have deve
 
 - Ethical Hacking & Vulnerability Assessment Lab
   Performed network reconnaissance and service enumeration using Nmap. Used Metasploit Framework in controlled lab environments to validate known
-  vulnerabilities. Conducted web application security testing involving SQL injection and Cross-Site Scripting (XSS) in intentionally vulnerable systems. Used Burp Suite to
-  inspect HTTP requests and analyze web traffic.
+  vulnerabilities. Conducted web application security testing involving SQL injection and Cross-Site Scripting (XSS) in intentionally vulnerable systems. Used Burp Suite to inspect HTTP requests and analyze web traffic.
 
-- Linux Application Development Project
-  Developed a calorie calculator application in a Linux environment designed to help users achieve weight-loss goals. Built logic to calculate recommended calorie intake
-  using BMI, current weight, and target weight-loss objectives. Utilized Bash, Python, Perl, and AWK for scripting, automation, and data processing tasks. Gathered user
-  inputs, processed calculations, and displayed personalized nutritional recommendations.
+#### Linux Application Development Project
+  [View Project Repository](https://github.com/cya-cybersecurity/linux-calorie-calculator)
+  Developed a calorie calculator application in a Linux environment designed to help users achieve weight-loss goals. Built logic to calculate recommended calorie intake using BMI, current weight, and target weight-loss objectives. Utilized Bash, Python, Perl, and AWK for scripting, automation, and data processing tasks. Gathered user inputs, processed calculations, and displayed personalized nutritional recommendations.
 
 
 ### About Me
