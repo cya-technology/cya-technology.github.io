@@ -35,8 +35,12 @@ Building on 10+ years of business systems implementation experience, I have deve
 
 - Linux Application Development Project
   Developed a calorie calculator application in a Linux environment designed to help users achieve weight-loss goals. Built logic to calculate recommended calorie intake using BMI, current weight, and target weight-loss objectives. Utilized Bash, Python, Perl, and AWK for scripting, automation, and data processing tasks. Gathered user inputs, processed calculations, and displayed personalized nutritional recommendations.
-
   [Linux Project Technical Details and Scripts](https://github.com/cya-cybersecurity/linux-scripting-project)
 
+- Digital Forensics Investigation
+  Conducted a digital forensics investigation using Autopsy to analyze a Windows XP disk image for evidence of hacking tools, password-cracking utilities, and suspicious activity. Examined forensic artifacts, recovered evidence, and produced a detailed investigative findings report.
+  [Digital Forensics Investigation Details and Full Report](https://github.com/cya-cybersecurity/digital-forensics-investigation)
+
+  
 ### About Me
 I bring 10+ years of experience implementing business systems and I am transitioning into cybersecurity with a focus on blue team operations and security analysis.
