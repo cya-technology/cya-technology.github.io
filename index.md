@@ -1,4 +1,4 @@
-# Claudia Arrunategui
+# Claudia Yassu Arrunategui
 
 ## SOC Analyst Candidate
 
