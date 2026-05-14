@@ -34,7 +34,7 @@ Building on 10+ years of business systems implementation experience, I have deve
   vulnerabilities. Conducted web application security testing involving SQL injection and Cross-Site Scripting (XSS) in intentionally vulnerable systems. Used Burp Suite to inspect HTTP requests and analyze web traffic.
 
 #### Linux Application Development Project
-  [View Project Repository](https://github.com/cya-cybersecurity/linux-calorie-calculator)
+  [View Project Repository](https://github.com/cya-cybersecurity/linux-scripting-project)
   Developed a calorie calculator application in a Linux environment designed to help users achieve weight-loss goals. Built logic to calculate recommended calorie intake using BMI, current weight, and target weight-loss objectives. Utilized Bash, Python, Perl, and AWK for scripting, automation, and data processing tasks. Gathered user inputs, processed calculations, and displayed personalized nutritional recommendations.
 
 
