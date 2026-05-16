@@ -44,16 +44,19 @@ Building on 10+ years of business systems implementation experience, I have deve
 - Networking & Routing Labs
 
   Built and configured routed and switched network environments using Packet Tracer and physical Cisco networking equipment. Configured IPv4 addressing, SSH access, router-to-router connectivity, switch configuration, and end-to-end LAN communication between multiple hosts. Applied networking concepts aligned with CompTIA Network+ and routing/switching coursework.
+  
   [Networking Lab Details](https://github.com/cya-cybersecurity/networking-labs)
 
 - Linux Application Development Project
   
   Developed a calorie calculator application in a Linux environment designed to help users achieve weight-loss goals. Built logic to calculate recommended calorie intake using BMI, current weight, and target weight-loss objectives. Utilized Bash, Python, Perl, and AWK for scripting, automation, and data processing tasks. Gathered user inputs, processed calculations, and displayed personalized nutritional recommendations.
+  
   [Linux Project Technical Details and Scripts](https://github.com/cya-cybersecurity/linux-scripting-project)
 
 - Digital Forensics Investigation
   
   Conducted a digital forensics investigation using Autopsy to analyze a Windows XP disk image for evidence of hacking tools, password-cracking utilities, and suspicious activity. Examined forensic artifacts, recovered evidence, and produced a detailed investigative findings report.
+  
   [Digital Forensics Investigation Details and Full Report](https://github.com/cya-cybersecurity/digital-forensics-investigation)
 
   
