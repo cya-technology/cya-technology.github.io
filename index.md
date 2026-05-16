@@ -23,7 +23,7 @@ Building on 10+ years of business systems implementation experience, I have deve
 
 ### Projects
 
--  Blue Team Cyber Defense Challenge
+- Blue Team Cyber Defense Challenge
   
   Hardened Windows and Linux systems by disabling unnecessary services, closing exposed ports, and reducing attack surface. Configured host-based firewalls and access controls to restrict unauthorized traffic. Monitored alerts, logs, and suspicious activity using Security Onion. 
   
@@ -33,6 +33,8 @@ Building on 10+ years of business systems implementation experience, I have deve
   
   Performed network reconnaissance and service enumeration using Nmap. Used Metasploit Framework in controlled lab environments to validate known
   vulnerabilities. Conducted web application security testing involving SQL injection and Cross-Site Scripting (XSS) in intentionally vulnerable systems. Used Burp Suite to inspect HTTP requests and analyze web traffic.
+
+  [Ethical Hacking Lab Details](https://github.com/cya-cybersecurity/ethical-hacking-labs)
 
 - Firewall Administration Lab
   
