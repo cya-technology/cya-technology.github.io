@@ -61,4 +61,8 @@ Building on 10+ years of business systems implementation experience, I have deve
 
   
 ### About Me
-I bring 10+ years of experience implementing business systems and I am transitioning into cybersecurity with a focus on blue team operations and security analysis.
+I bring 10+ years of experience implementing business systems and am transitioning into cybersecurity with a focus on blue team operations and security analysis.
+
+In my previous role as an SAP Business One Consultant, I worked extensively with SQL and SAP HANA Studio for database management, while also developing queries and Crystal Reports to support business operations and reporting needs. Over the past 1.5 years, I have been dedicated to studying cybersecurity through hands-on labs, networking, and technical training as I prepare to begin my journey as a cybersecurity professional.
+
+Outside of tech, I practice a traditional Peruvian dance called Marinera Norteña — a unique barefoot dance known for its elegant, full-length attire and expressive choreography.
