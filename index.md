@@ -1,6 +1,6 @@
 # Claudia Yassu Arrunategui
 
-## SOC Analyst Candidate
+## Cybersecurity Professional
 
 Welcome to my cybersecurity portfolio.
 
