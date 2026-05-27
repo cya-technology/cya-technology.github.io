@@ -21,7 +21,15 @@ Building on 10+ years of business systems implementation experience, I have deve
 - CompTIA Network+
 - CompTIA Security+
 
-### Projects
+### Independent Projects
+
+- SOC SIEM LAB
+
+  Designed and implemented a self-directed SOC/SIEM home lab using Splunk Enterprise, Sysmon, Ubuntu Server, and Windows telemetry to develop behavioral detections and validate security alerts.
+
+  [SOC SIEM LAB Details](https://github.com/cya-cybersecurity/soc-siem-lab)
+
+### Academic Labs
 
 - Blue Team Cyber Defense Challenge
   
