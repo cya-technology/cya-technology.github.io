@@ -1,2 +1,2 @@
-# cya-cybersecurity.github.io
-Cybersecurity portfolio showcasing cybersecurity school projects, home projects and relevant work experience. 
+# cya-technology.github.io
+A collection of technical projects, hands-on labs, and learning experiences documenting my journey across cybersecurity, business systems, data, and enterprise technology.
