@@ -1,25 +1,42 @@
 # Claudia Yassu Arrunategui
 
-## Cybersecurity Professional
+## Business Systems & Technology Professional
 
-Welcome to my cybersecurity portfolio.
+Welcome to my professional technology portfolio.
 
-Building on 10+ years of business systems implementation experience, I have developed hands-on skills in:
+With over 10 years of experience working with business systems and enterprise technology, I have developed a strong foundation in understanding how technology supports business operations. My experience and ongoing education span business systems, ERP, data and reporting, cybersecurity, and emerging technologies.
+
+I am particularly interested in the intersection of business and technology—analyzing how systems, processes, data, and security work together to support effective and efficient organizations.
+
+Professional & Technical Areas: 
+- Business systems and enterprise applications
+- ERP systems and business process support
+- Business systems analysis and requirements
+- Data, SQL, reporting, and analytics
+- Enterprise technology and system integration
+- Cybersecurity and security operations
 - Blue team cyber defense and system hardening
-- Windows and Linux security administration
+- Windows and Linux administration
 - Network security and firewall configuration
-- Security Onion monitoring and log analysis
-- Ethical hacking and vulnerability assessment
+- Security monitoring and log analysis
+- Vulnerability assessment and remediation
 - Network reconnaissance using Nmap
-- Web application testing with Burp Suite
-- Security testing with Metasploit Framework
-- Palo Alto firewall administration
-- Linux scripting and application development
-- Python scripting fundamentals
+- Web application security testing with Burp Suite
+- Security testing with the Metasploit Framework
+- Linux scripting and automation
+- Python fundamentals and scripting
+- Artificial intelligence and emerging technologies
+
+## About This Portfolio
+
+This repository contains a collection of professional projects, technical labs, coursework, and hands-on learning experiences across cybersecurity, business systems, data, enterprise technology, and other areas of technology.
+
+My goal is to continue expanding my understanding of enterprise technology while building on my experience with business systems and exploring how data, security, automation, and emerging technologies can support modern organizations.
 
 ### Certifications
 - CompTIA Network+
 - CompTIA Security+
+- Microsoft Certified: Azure AI Fundamentals (In Progress)
 
 ### Independent Projects
 
@@ -27,7 +44,7 @@ Building on 10+ years of business systems implementation experience, I have deve
 
   Designed and implemented a self-directed SOC/SIEM home lab using Splunk Enterprise, Sysmon, Ubuntu Server, and Windows telemetry to develop behavioral detections and validate security alerts.
 
-  [SOC SIEM LAB Details](https://github.com/cya-cybersecurity/soc-siem-lab)
+  [SOC SIEM LAB Details](https://github.com/cya-technology/cybersecurity/soc-siem-lab)
 
 ### Academic Labs
 
@@ -35,14 +52,14 @@ Building on 10+ years of business systems implementation experience, I have deve
   
   Hardened Windows and Linux systems by disabling unnecessary services, closing exposed ports, and reducing attack surface. Configured host-based firewalls and access controls to restrict unauthorized traffic. Monitored alerts, logs, and suspicious activity using Security Onion. 
   
-  [Blue Team Cyberchallenge Details and Report](https://github.com/cya-cybersecurity/blue-team-cyberchallenge)
+  [Blue Team Cyberchallenge Details and Report](https://github.com/cya-technology/cybersecurity/blue-team-cyberchallenge)
 
 - Ethical Hacking & Vulnerability Assessment Lab
   
   Performed network reconnaissance and service enumeration using Nmap. Used Metasploit Framework in controlled lab environments to validate known
   vulnerabilities. Conducted web application security testing involving SQL injection and Cross-Site Scripting (XSS) in intentionally vulnerable systems. Used Burp Suite to inspect HTTP requests and analyze web traffic.
 
-  [Ethical Hacking Lab Details](https://github.com/cya-cybersecurity/ethical-hacking-labs)
+  [Ethical Hacking Lab Details](https://github.com/cya-technology/cybersecurity/ethical-hacking-labs)
 
 - Firewall Administration Lab
   
@@ -53,24 +70,20 @@ Building on 10+ years of business systems implementation experience, I have deve
 
   Built and configured routed and switched network environments using Packet Tracer and physical Cisco networking equipment. Configured IPv4 addressing, SSH access, router-to-router connectivity, switch configuration, and end-to-end LAN communication between multiple hosts. Applied networking concepts aligned with CompTIA Network+ and routing/switching coursework.
   
-  [Networking Lab Details](https://github.com/cya-cybersecurity/networking-labs)
+  [Networking Lab Details](https://github.com/cya-technology/cybersecurity/networking-labs)
 
 - Linux Application Development Project
   
   Developed a calorie calculator application in a Linux environment designed to help users achieve weight-loss goals. Built logic to calculate recommended calorie intake using BMI, current weight, and target weight-loss objectives. Utilized Bash, Python, Perl, and AWK for scripting, automation, and data processing tasks. Gathered user inputs, processed calculations, and displayed personalized nutritional recommendations.
   
-  [Linux Project Technical Details and Scripts](https://github.com/cya-cybersecurity/linux-scripting-project)
+  [Linux Project Technical Details and Scripts](https://github.com/cya-technology/cybersecurity/linux-scripting-project)
 
 - Digital Forensics Investigation
   
   Conducted a digital forensics investigation using Autopsy to analyze a Windows XP disk image for evidence of hacking tools, password-cracking utilities, and suspicious activity. Examined forensic artifacts, recovered evidence, and produced a detailed investigative findings report.
   
-  [Digital Forensics Investigation Details and Full Report](https://github.com/cya-cybersecurity/digital-forensics-investigation)
+  [Digital Forensics Investigation Details and Full Report](https://github.com/cya-technology/cybersecurity/digital-forensics-investigation)
 
-  
-### About Me
-I bring 10+ years of experience implementing business systems and am transitioning into cybersecurity with a focus on blue team operations and security analysis.
 
-In my previous role as an SAP Business One Consultant, I worked extensively with SQL and SAP HANA Studio for database management, while also developing queries and Crystal Reports to support business operations and reporting needs. Over the past 1.5 years, I have been dedicated to studying cybersecurity through hands-on labs, networking, and technical training as I prepare to begin my journey as a cybersecurity professional.
 
 Outside of tech, I practice a traditional Peruvian dance called Marinera Norteña — a unique barefoot dance known for its elegant, full-length attire and expressive choreography.
