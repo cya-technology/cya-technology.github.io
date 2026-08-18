@@ -40,11 +40,10 @@ My goal is to continue expanding my understanding of enterprise technology while
 
 ### Independent Projects
 
-- SOC SIEM LAB
+- [SOC SIEM LAB Details](https://github.com/cya-technology/soc-siem-lab)
 
   Designed and implemented a self-directed SOC/SIEM home lab using Splunk Enterprise, Sysmon, Ubuntu Server, and Windows telemetry to develop behavioral detections and validate security alerts.
-
-  [SOC SIEM LAB Details](https://github.com/cya-technology/soc-siem-lab)
+  
 
 ### Cybersecurity Academic Labs
 
