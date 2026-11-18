@@ -1,6 +1,6 @@
 # cya-technology.github.io
 
-Technology, Business Systems & Data Analytics Portfolio
+**Technology, Business Systems & Data Analytics Portfolio**
 
 A collection of technical projects, hands-on labs, and learning experiences documenting my journey across cybersecurity, business systems, data, and enterprise technology.
 
@@ -14,13 +14,13 @@ In addition to my business systems and data experience, I have pursued hands-on 
 
 This portfolio is organized into four primary areas:
 
-Business Systems Analysis & Project Documentation: Functional requirements gathering, business process documentation, project planning, implementation coordination, end-user testing, and standard operating procedures.
+**Business Systems Analysis & Project Documentation:** Functional requirements gathering, business process documentation, project planning, implementation coordination, end-user testing, and standard operating procedures.
 
-Business Reporting: Custom report development using SQL and Crystal Reports, including financial, sales, inventory, warehouse, and operational reporting solutions.
+**Business Reporting:** Custom report development using SQL and Crystal Reports, including financial, sales, inventory, warehouse, and operational reporting solutions.
 
-Data Analytics & Database Development: SQL development, database views, stored procedures, functions, SAP HANA calculation views, and dimensional data modeling using star schemas.
+**Data Analytics & Database Development:** SQL development, database views, stored procedures, functions, SAP HANA calculation views, and dimensional data modeling using star schemas.
 
-Cybersecurity & Information Security: Defensive security challenges, ethical hacking, firewall administration, networking and routing, Linux application development, and digital forensic investigations.
+**Cybersecurity & Information Security:** Defensive security challenges, ethical hacking, firewall administration, networking and routing, Linux application development, and digital forensic investigations.
 
 My goal is to continuously expand my technical knowledge while developing practical solutions that bridge business requirements and technology capabilities. I believe effective technology solutions begin with understanding the people, processes, and business objectives they are intended to support.
 
