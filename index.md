@@ -1,4 +1,4 @@
-# Claudia Yassu Arrunategui
+# Claudia Yassu 
 
 ## Business Systems & Technology Professional
 
