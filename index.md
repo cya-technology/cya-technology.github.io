@@ -4,7 +4,7 @@
 
 Welcome to my professional technology portfolio.
 
-With over 6 years of experience working with business systems and enterprise technology, I have developed a strong foundation in understanding how technology supports business operations. My experience and ongoing education span business systems, ERP, data and reporting, cybersecurity, and emerging technologies.
+With over 13 years of experience working with business systems and enterprise technology, I have developed a strong foundation in understanding how technology supports business operations. My experience and ongoing education span business systems, ERP, data and reporting, cybersecurity, and emerging technologies.
 
 I am particularly interested in the intersection of business and technology—analyzing how systems, processes, data, and security work together to support effective and efficient organizations.
 
@@ -14,22 +14,14 @@ Professional & Technical Areas:
 - Business systems analysis and requirements
 - Data, SQL, reporting, and analytics
 - Enterprise technology and system integration
-- Cybersecurity and security operations
-- Blue team cyber defense and system hardening
 - Windows and Linux administration
-- Network security and firewall configuration
-- Security monitoring and log analysis
-- Vulnerability assessment and remediation
-- Network reconnaissance using Nmap
-- Web application security testing with Burp Suite
-- Security testing with the Metasploit Framework
 - Linux scripting and automation
 - Python fundamentals and scripting
 - Artificial intelligence and emerging technologies
 
 ## About This Portfolio
 
-This repository contains a collection of professional projects, technical labs, coursework, and hands-on learning experiences across cybersecurity, business systems, data, enterprise technology, and other areas of technology.
+This repository contains a collection of professional projects, business systems, data, enterprise technology, and other areas of technology.
 
 My goal is to continue expanding my understanding of enterprise technology while building on my experience with business systems and exploring how data, security, automation, and emerging technologies can support modern organizations.
 
@@ -38,16 +30,41 @@ My goal is to continue expanding my understanding of enterprise technology while
 - CompTIA Security+
 - Microsoft Certified: Azure AI Fundamentals (In Progress)
 
-### Independent Projects
+### Business Systems and ERP Experience 
+  My business systems experience encompasses the analysis, documentation, implementation, and ongoing support of business applications. I have worked across various stages of the systems lifecycle, translating business needs into functional requirements, developing project documentation, coordinating implementation activities, and establishing procedures that support effective system adoption and ongoing operations.
 
-- [AI Data Cleaning Agent | AWS Community Day Sacramento Hackathon - August, 2026](https://github.com/cya-technology/AI-data-cleaning-agent)
-  Developed an AI-powered agent designed to clean and standardize cluttered spreadsheet data for human review and approval before uploading the data into a SQL database. The project explored how AI automation could improve data quality and reduce manual effort while maintaining human oversight over data changes.
+Functional Requirements Gathering: Working with stakeholders to understand business processes, identify operational needs, document functional requirements, and translate business objectives into system requirements.
 
-- [SOC SIEM LAB Details](https://github.com/cya-technology/soc-siem-lab)
+Project Planning & Coordination: Developing project plans, implementation timelines, task assignments, and project cutover checklists to support organized system deployments and transitions.
 
-  Designed and implemented a self-directed SOC/SIEM home lab using Splunk Enterprise, Sysmon, Ubuntu Server, and Windows telemetry to develop behavioral detections and validate security alerts.
+End-User Acceptance Testing (UAT): Preparing end-user testing plans, documenting test scenarios, validating system functionality against business requirements, and supporting user feedback and issue resolution.
+
+Standard Operating Procedures (SOPs): Creating procedural documentation to establish consistent workflows for system usage, troubleshooting, issue reporting, and escalation.
+
+System Support & Issue Management: Establishing processes for documenting, categorizing, prioritizing, tracking, and resolving system issues reported by end users.
+
+Process & Systems Documentation: Developing Word-based documentation and project artifacts that support knowledge transfer, operational consistency, system maintenance, and organizational continuity.
+
+
+### Business Reporting & Data Analytics 
+
+  My business reporting and data analytics experience focuses on transforming business data into meaningful, actionable information through database development, reporting solutions, and business intelligence tools. I have developed custom reports across multiple functional areas of business operations, leveraging SQL queries, Crystal Reports, and SAP HANA to provide visibility into financial performance, sales activity, inventory management, warehouse operations, and other key business processes.
+
+Custom Report Development: Designing and developing business reports using SQL queries and SAP Crystal Reports to address reporting requirements across finance, sales, inventory, purchasing, and warehouse operations.
+
+SQL Development & Database Objects: Writing SQL queries and developing database views, stored procedures, and functions to retrieve, transform, organize, and present business data.
+
+SAP HANA Analytics: Working with SAP HANA calculation views to develop analytical data structures and support reporting requirements.
+
+Data Modeling & Architecture: Working with dimensional data models and star schemas to organize business information, establish relationships between datasets, and support analytical reporting.
+
+Operational & Financial Reporting: Developing reports that provide insight into financial transactions, sales performance, inventory levels, warehouse activity, and other operational metrics.
+
+Business Process Reporting: Creating specialized reporting solutions, including barcode and serial number labels, inventory identification, and warehouse documentation to support day-to-day business operations.
+
+Data-Driven Decision Support: Translating business reporting needs into structured data solutions that improve information accessibility, operational visibility, and management decision-making.
+
   
-
 ### Cybersecurity Academic Labs
 
 - [Blue Team Cyberchallenge](https://github.com/cya-technology/blue-team-cyberchallenge)
