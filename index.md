@@ -33,34 +33,34 @@ My goal is to continue expanding my understanding of enterprise technology while
 ### Business Systems and ERP Experience 
   My business systems experience encompasses the analysis, documentation, implementation, and ongoing support of business applications. I have worked across various stages of the systems lifecycle, translating business needs into functional requirements, developing project documentation, coordinating implementation activities, and establishing procedures that support effective system adoption and ongoing operations.
 
-[Functional Requirements Gathering](https://github.com/cya-technology/business-systems/functional-requirements): Working with stakeholders to understand business processes, identify operational needs, document functional requirements, and translate business objectives into system requirements.
+[Functional Requirements Gathering](https://github.com/cya-technology/cya-technology.github.io/tree/main/business-systems/functional-requirements): Working with stakeholders to understand business processes, identify operational needs, document functional requirements, and translate business objectives into system requirements.
 
-[Project Planning & Coordination](https://github.com/cya-technology/business-systems/project-planning): Developing project plans, implementation timelines, task assignments, and project cutover checklists to support organized system deployments and transitions.
+[Project Planning & Coordination](https://github.com/cya-technology/cya-technology.github.io/tree/main/business-systems/project-planning): Developing project plans, implementation timelines, task assignments, and project cutover checklists to support organized system deployments and transitions.
 
-[End-User Acceptance Testing (UAT)](https://github.com/cya-technology/business-systems/UAT): Preparing end-user testing plans, documenting test scenarios, validating system functionality against business requirements, and supporting user feedback and issue resolution.
+[End-User Acceptance Testing (UAT)](https://github.com/cya-technology/cya-technology.github.io/tree/main/business-systems/UAT): Preparing end-user testing plans, documenting test scenarios, validating system functionality against business requirements, and supporting user feedback and issue resolution.
 
-[Standard Operating Procedures (SOPs)](https://github.com/cya-technology/business-systems/SOPs): Creating procedural documentation to establish consistent workflows for system usage, troubleshooting, issue reporting, and escalation.
+[Standard Operating Procedures (SOPs)](https://github.com/cya-technology/cya-technology.github.io/tree/main/business-systems/SOPs): Creating procedural documentation to establish consistent workflows for system usage, troubleshooting, issue reporting, and escalation.
 
-[System Support & Issue Management](https://github.com/cya-technology/business-systems/system-support): Establishing processes for documenting, categorizing, prioritizing, tracking, and resolving system issues reported by end users.
+[System Support & Issue Management](https://github.com/cya-technology/cya-technology.github.io/tree/main/business-systems/system-support): Establishing processes for documenting, categorizing, prioritizing, tracking, and resolving system issues reported by end users.
 
-[Process & Systems Documentation](https://github.com/cya-technology/business-systems/process-documentation): Developing Word-based documentation and project artifacts that support knowledge transfer, operational consistency, system maintenance, and organizational continuity.
+[Process & Systems Documentation](https://github.com/cya-technology/cya-technology.github.io/tree/main/business-systems/process-documentation): Developing Word-based documentation and project artifacts that support knowledge transfer, operational consistency, system maintenance, and organizational continuity.
 
 
 ### Business Reporting & Data Analytics 
 
   My business reporting and data analytics experience focuses on transforming business data into meaningful, actionable information through database development, reporting solutions, and business intelligence tools. I have developed custom reports across multiple functional areas of business operations, leveraging SQL queries, Crystal Reports, and SAP HANA to provide visibility into financial performance, sales activity, inventory management, warehouse operations, and other key business processes.
 
-[Custom Report Development](https://github.com/cya-technology/data-analytics/custom-reports): Designing and developing business reports using SQL queries and SAP Crystal Reports to address reporting requirements across finance, sales, inventory, purchasing, and warehouse operations.
+[Custom Report Development](https://github.com/cya-technology/cya-technology.github.io/tree/main/data-analytics/custom-reports): Designing and developing business reports using SQL queries and SAP Crystal Reports to address reporting requirements across finance, sales, inventory, purchasing, and warehouse operations.
 
-[SQL Development & Database Object](https://github.com/cya-technology/data-analytics/sql-development): Writing SQL queries and developing database views, stored procedures, and functions to retrieve, transform, organize, and present business data.
+[SQL Development & Database Object](https://github.com/cya-technology/cya-technology.github.io/tree/main/data-analytics/sql-development): Writing SQL queries and developing database views, stored procedures, and functions to retrieve, transform, organize, and present business data.
 
-[SAP HANA Analytics](https://github.com/cya-technology/data-analytics/SAP-HANA): Working with SAP HANA calculation views to develop analytical data structures and support reporting requirements.
+[SAP HANA Analytics](https://github.com/cya-technology/cya-technology.github.io/tree/main/data-analytics/SAP-HANA): Working with SAP HANA calculation views to develop analytical data structures and support reporting requirements.
 
-[Data Modeling & Architecture](https://github.com/cya-technology/data-analytics/data-modeling): Working with dimensional data models and star schemas to organize business information, establish relationships between datasets, and support analytical reporting.
+[Data Modeling & Architecture](https://github.com/cya-technology/cya-technology.github.io/tree/main/data-analytics/data-modeling): Working with dimensional data models and star schemas to organize business information, establish relationships between datasets, and support analytical reporting.
 
-[Operational & Financial Reporting](https://github.com/cya-technology/data-analytics/operational-reporting): Developing reports that provide insight into financial transactions, sales performance, inventory levels, warehouse activity, and other operational metrics.
+[Operational & Financial Reporting](https://github.com/cya-technology/cya-technology.github.io/tree/main/data-analytics/operational-reporting): Developing reports that provide insight into financial transactions, sales performance, inventory levels, warehouse activity, and other operational metrics.
 
-[Business Process Reporting](https://github.com/cya-technology/data-analytics/business-process-reporting): Creating specialized reporting solutions, including barcode and serial number labels, inventory identification, and warehouse documentation to support day-to-day business operations.
+[Business Process Reporting](https://github.com/cya-technology/cya-technology.github.io/tree/main/data-analytics/business-process-reporting): Creating specialized reporting solutions, including barcode and serial number labels, inventory identification, and warehouse documentation to support day-to-day business operations.
 
 [Data-Driven Decision Support](https://github.com/cya-technology/data-analytics/decision-support]: Translating business reporting needs into structured data solutions that improve information accessibility, operational visibility, and management decision-making.
 
@@ -71,7 +71,7 @@ My goal is to continue expanding my understanding of enterprise technology while
   
   Hardened Windows and Linux systems by disabling unnecessary services, closing exposed ports, and reducing attack surface. Configured host-based firewalls and access controls to restrict unauthorized traffic. Monitored alerts, logs, and suspicious activity using Security Onion. 
 
-- [Ethical Hacking Capstone Project](https://github.com/cya-technology/cybersecurity/ethical-hacking)
+- [Ethical Hacking Capstone Project](https://github.com/cya-technology/cya-technology.github.io/tree/main/cybersecurity/ethical-hacking)
   
   Performed network reconnaissance and service enumeration using Nmap. Used Metasploit Framework in controlled lab environments to validate known
   vulnerabilities. Conducted web application security testing involving SQL injection and Cross-Site Scripting (XSS) in intentionally vulnerable systems. Used Burp Suite to inspect HTTP requests and analyze web traffic.
@@ -81,15 +81,15 @@ My goal is to continue expanding my understanding of enterprise technology while
   Configured enterprise firewall policies using Palo Alto Networks platforms in a lab environment. Created and modified security rules, zones, and traffic filtering policies.
   Applied firewall best practices to segment networks and control inbound/outbound traffic. Reviewed logs to validate rule effectiveness and identify blocked activity.
 
-- [Networking & Routing](https://github.com/cya-technology/cybersecurity/networking-routing)
+- [Networking & Routing](https://github.com/cya-technology/cya-technology.github.io/tree/main/cybersecurity/networking-routing)
 
   Built and configured routed and switched network environments using Packet Tracer and physical Cisco networking equipment. Configured IPv4 addressing, SSH access, router-to-router connectivity, switch configuration, and end-to-end LAN communication between multiple hosts. Applied networking concepts aligned with CompTIA Network+ and routing/switching coursework.
 
-- [Linux Application Development Project](https://github.com/cya-technology/cybersecurity/linux-development)
+- [Linux Application Development Project](https://github.com/cya-technology/cya-technology.github.io/tree/main/cybersecurity/linux-development)
   
   Developed a calorie calculator application in a Linux environment designed to help users achieve weight-loss goals. Built logic to calculate recommended calorie intake using BMI, current weight, and target weight-loss objectives. Utilized Bash, Python, Perl, and AWK for scripting, automation, and data processing tasks. Gathered user inputs, processed calculations, and displayed personalized nutritional recommendations.
 
-- [Digital Forensics Investigation](https://github.com/cya-technology/cybersecurity/digital-forensics)
+- [Digital Forensics Investigation](https://github.com/cya-technology/cya-technology.github.io/tree/main/cybersecurity/digital-forensics)
   
   Conducted a digital forensics investigation using Autopsy to analyze a Windows XP disk image for evidence of hacking tools, password-cracking utilities, and suspicious activity. Examined forensic artifacts, recovered evidence, and produced a detailed investigative findings report.
 
