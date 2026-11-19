@@ -67,7 +67,7 @@ My goal is to continue expanding my understanding of enterprise technology while
   
 ### Cybersecurity Academic Labs
 
-- [Blue Team Cyberchallenge](https://github.com/cya-technology/cybersecurity/blue-team-cyberchallenge)
+- [Blue Team Cyberchallenge](https://github.com/cya-technology/cya-technology.github.io/tree/main/cybersecurity/blue-team-cyberchallenge)
   
   Hardened Windows and Linux systems by disabling unnecessary services, closing exposed ports, and reducing attack surface. Configured host-based firewalls and access controls to restrict unauthorized traffic. Monitored alerts, logs, and suspicious activity using Security Onion. 
 
